@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sehar Sarwar 👋
 
-<!--
-**sehar-sarwar/sehar-sarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science @ University of Sahiwal (6th Sem)
+💻 Full-Stack Web Developer
+📍 Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+HTML | CSS | JavaScript | PHP | MySQL | Python | Java | C++ | Python | Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🛍️ Euphoria — Luxury E-Commerce Jewellery Website
+- 🍔 Quickbite — Food Delivery Website
+- 🤖 Python Automation Scripts
+- 🎮 Snake Game Using java
+- 👾 Hangman Game Using python
+
+## 📫 Contact
+www.linkedin.com/in/sehar-sarwar-65a714376
